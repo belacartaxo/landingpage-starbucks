@@ -1,6 +1,15 @@
 const imgs = document.querySelectorAll('.coffee-icons img');
 const mainImg = document.querySelector('.main-content .img img');
 const circle = document.querySelector('.circle');
+const menu = document.querySelector('.bars');
+
+menu.addEventListener('click', ()=>{
+    const menuBg = document.querySelector('.menu-bg');
+    const navMobile = document.querySelector('.nav-mobile');
+    menuBg.classList.toggle('change');
+    menu.classList.toggle('change');
+    navMobile.classList.toggle('change');
+})
 
 imgs[0].addEventListener('click', ()=>{
     changeImg(mainImg, 'assets/img/stbgreen-g.png');
