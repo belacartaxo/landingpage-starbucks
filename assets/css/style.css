@@ -107,6 +107,9 @@ header nav.menu ul{
     background-color: #013724;
 }
 
+.main-content .img div{
+    width: 300px;
+}
 
 .main-content .img img{
     position: relative;
@@ -142,7 +145,7 @@ header nav.menu ul{
 .coffee-icons{
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 50px;
     position: relative;
     bottom: 30px;
 }
