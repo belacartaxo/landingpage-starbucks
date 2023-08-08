@@ -11,7 +11,7 @@ JavaScript Interativo: A funcionalidade da escolha de tema é impulsionada pelo 
 Inspiração Starbucks: O design do site foi inspirado na estética reconhecível da Starbucks, com ícones de café, cores acolhedoras e elementos visuais que remetem à marca.
 
 ## Visite o website
-E experimente a funcionalidade de escolha de tema ao clicar nos botões desejados
+E experimente a funcionalidade de escolha de tema ao clicar nos botões desejados ->
 https://belacartaxo.github.io/landingpage-starbucks/
 
 ## Contribuição
