@@ -1,23 +1,18 @@
-# Landing Page Responsiva Starbucks
-Bem-vindo ao repositório do projeto da Landing Page Responsiva inspirada na Starbucks! Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript para criar uma página web interativa e visualmente atraente que reflete o ambiente acolhedor da Starbucks.
+# Responsive Starbucks Landing Page
 
-## Visão Geral
-Essa landing page é projetada para ser responsiva e se adaptar perfeitamente a diferentes dispositivos, desde desktops até smartphones. Uma das características mais empolgantes desta página é a funcionalidade de escolha de tema. Com a ajuda do JavaScript, permitimos que os usuários personalizem a página de acordo com suas preferências.
+Welcome to the repository for the Responsive Starbucks Landing Page project! Developed using HTML, CSS, and JavaScript, this project creates an interactive and visually appealing webpage that reflects the cozy atmosphere of Starbucks.
 
-## Funcionalidades
-Responsividade: A página foi construída com foco na responsividade, garantindo uma experiência suave em qualquer dispositivo.
-Escolha de Tema: Os usuários podem escolher entre diferentes temas, alterando a cor de um elemento da página e a imagem de capa de acordo com o botão selecionado.
-JavaScript Interativo: A funcionalidade da escolha de tema é impulsionada pelo JavaScript, permitindo uma experiência interativa e dinâmica.
-Inspiração Starbucks: O design do site foi inspirado na estética reconhecível da Starbucks, com ícones de café, cores acolhedoras e elementos visuais que remetem à marca.
+![Starbucks landingpage](assets/img/readme-image.png)
 
-## Visite o website
-E experimente a funcionalidade de escolha de tema ao clicar nos botões desejados ->
-https://belacartaxo.github.io/landingpage-starbucks/
+## Overview 
+This landing page is designed to be responsive, ensuring a seamless experience across various devices, from desktops to smartphones. A standout feature of this page is the theme selection functionality. Using JavaScript, users can customize the page according to their preferences.
 
-## Contribuição
-Contribuições são bem-vindas! Se você tiver ideias para melhorias, correções de bugs ou novas funcionalidades, sinta-se à vontade para abrir um pull request.
+## Features
 
-## Licença
-Este projeto é licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo LICENSE.
+- Responsiveness: The page is built with a focus on responsiveness, providing a smooth experience on any device.
+- Theme Selection: Users can choose from different themes, altering the color of a page element and the cover image according to the selected button.
+- Interactive JavaScript: The theme selection functionality is driven by JavaScript, offering an interactive and dynamic experience.
+- Starbucks Inspiration: The design of the site is inspired by Starbucks' recognizable aesthetic, featuring coffee icons, warm colors, and brand-related visual elements.
 
-Agradeço por visitar este repositório e espero que você goste da experiência interativa da Landing Page Responsiva Starbucks. Se tiver alguma dúvida ou sugestão, não hesite em me contatar.
+## Author
+This repository is maintained by Your [Isabela Cartaxo](https://github.com/belacartaxo).
